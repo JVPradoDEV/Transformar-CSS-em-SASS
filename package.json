@@ -1,0 +1,12 @@
+{
+  "name": "importar-css-para-sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass exercicio/source/main.scss exercicio/build/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
